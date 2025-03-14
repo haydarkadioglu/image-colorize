@@ -89,7 +89,7 @@ The following images demonstrate the progressive improvement of our colorization
 | 25 Epochs | ![25 Epochs](images/25e.png) |
 | 35 Epochs | ![35 Epochs](images/35e.png) |
 | 45 Epochs | ![45 Epochs](images/45e.png) |
-| 50 Epochs | ![50 Epochs](images/50e.png) |
+| 50 Epochs | ![50 Epochs](images/50E.png) |
 
 This progression clearly shows how the model's ability to produce realistic colorization improves with training. Early epochs (10-20) show basic color recognition but often with less accuracy and vibrancy. By 35-50 epochs, the model achieves much more natural and detailed colorization, with better distinction between different objects and improved color saturation.
 
